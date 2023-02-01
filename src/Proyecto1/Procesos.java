@@ -26,7 +26,7 @@ public class Procesos {
         System.out.println("******** bienvenidos al sistema de clientes ************");
         System.out.println("******************************************************");
         // menu de opciones
-        System.out.println("*MENU DE OPCIONES*:");
+        System.out.println("*** MENU DE OPCIONES ***:");
         System.out.println("*********************************");
         System.out.println("1 - Añadir clientes!");
         System.out.println("**********************************");
